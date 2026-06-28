@@ -15,6 +15,7 @@ for vndk_version, libs in {
         "libutils",
     ],
     "v32": [
+        "libbinder",
         "libhidlbase",
         "libutils",
     ],
